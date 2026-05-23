@@ -40,10 +40,9 @@ npm run dev
 http://127.0.0.1:5173/
 ```
 
-## 주의사항
-
-`.env` 파일에는 API 키가 들어가므로 GitHub에 올리면 안 됩니다. 이 프로젝트의 `.gitignore`에는 `.env`가 포함되어 있습니다.
 
 ## 실행 결과 화면
+<img width="2872" height="1636" alt="스크린샷 2026-05-24 045243" src="https://github.com/user-attachments/assets/d3edac7d-ea19-4ba4-834c-0433a73fd85e" />
 
-실행 후 화면을 캡처해서 이 README에 추가하거나, 제출 페이지에 함께 업로드하면 됩니다.
+
+
